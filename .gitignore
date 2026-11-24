@@ -8,10 +8,14 @@
 *.fdb_latexmk
 *.toc
 *.fls
+*.idx
+*.ilg
+*.ind
 *.log
 *.nav
 *.out
 *.pdf
+!slika.pdf
 *.pyc
 *.snm
 *.synctex.gz
